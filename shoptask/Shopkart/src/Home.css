@@ -1,0 +1,49 @@
+.pricecard{
+    background-color:white;
+    height: 9cm;width: 6cm;
+    border-radius: .3cm;
+   border: 1px solid black;
+}
+img{
+    margin-top: 0px;
+    height: 4cm;
+    width: 5.9cm;
+   
+}
+button{
+    background-color:white;
+    border-radius: .3cm;
+    border: 1px solid black;
+    padding-top:0px ;
+    padding: 5px;
+    width: 3cm;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.prodname{
+    justify-content: center;
+}
+
+button:hover{
+    background-color: black;
+    color: antiquewhite;
+}
+.card{
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.ops{
+    text-decoration: line-through;
+    color: grey;
+}
+h3{
+    font-family:sans-serif;
+}
+.qty{
+    background-color: rgb(36, 36, 36);
+    color: antiquewhite;
+    border-top-left-radius: .3cm;
+    border-top-right-radius: .3cm;
+}
