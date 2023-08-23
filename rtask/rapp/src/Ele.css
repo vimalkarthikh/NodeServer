@@ -1,0 +1,20 @@
+.content{
+    height: 10cm;
+    width: 6cm;
+    border: 1px solid black;
+    border-radius: .3cm;
+    margin-left: .7cm;
+    margin-top: 1cm;
+    padding: 1rem;
+    text-align:left;
+    background-color: rgba(234, 234, 234, 0.798);
+    
+}
+.ele{
+    margin-left: 0cm;
+    color: green;
+}
+.read{
+    text-align:left;
+    margin-left: 0;
+}

@@ -69,3 +69,10 @@ a:hover{
 body{
   background-color: rgb(207, 207, 207);
 }
+.cartcount{
+  background-color: black;
+  height: 1cm;width: 1cm;
+  border-radius: 1cm;
+  font-size: large;
+  color: antiquewhite;
+}

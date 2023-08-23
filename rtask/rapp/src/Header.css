@@ -1,0 +1,21 @@
+.cont{
+    background-color: whitesmoke;
+    display: flex;flex-direction: row;
+    align-items: center;
+    padding: 0;
+    height: 2cm;
+}
+
+.logoname{
+    margin-left: 3cm;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}
+
+hr{
+    color: black;
+}
+a:hover{
+    color: rgb(0, 202, 0);
+}

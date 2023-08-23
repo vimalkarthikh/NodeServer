@@ -1,0 +1,12 @@
+.pic{
+  margin-top: .4cm;margin-left: .2cm;
+  width: 7cm;height: 6cm;
+  padding: 1px;
+}
+.card{
+  background-color: antiquewhite;
+  height: 7cm;
+  padding: 2px;
+  border: 1px solid black;
+  width: 25cm;
+}

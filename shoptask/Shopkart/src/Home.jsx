@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 function Home(props) {
     const[isClicked,setState]=useState(true);
-    const[cnt,setCount]=useState(0);
+    let {cnt,setCount}=props;
     const but=()=>{
         var count=0;
         if(isClicked==true){
@@ -23,8 +23,7 @@ function Home(props) {
     <div class="card">
        
         <div class="pricecard">
-            <p class="qty">Qty:  {cnt}</p>
-            <hr></hr>
+            
             <img src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg"></img>
            <div class="prodname">
             <br></br>
