@@ -1,0 +1,9 @@
+.spc{
+    margin-bottom: 2cm;
+    display: flex;
+    flex-direction: column;
+    background-color: none;
+   
+    color: beige;
+    
+}
