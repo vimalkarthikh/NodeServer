@@ -1,11 +1,19 @@
 
 body {
+  margin-top: 1cm;
   margin: 0;
   display: flex;
- margin-top: 1cm;
-  min-width: 320px;
-  min-height: 100vh;
-  background-color: #535bf2;
+  place-items: center;
+ 
   justify-content: center;
-  align-items: center;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	
+}
+
+.card{
+  margin-top: 0;
+  background-color: whitesmoke;
+  width: 25cm;height: 8.05cm;
+  border: .5px solid grey;
+  border-radius: 10px;
 }

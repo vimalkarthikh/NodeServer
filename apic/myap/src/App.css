@@ -1,12 +1,17 @@
 .pic{
   margin-top: .4cm;margin-left: .2cm;
-  width: 7cm;height: 6cm;
+  width: 8cm;height: 7cm;
   padding: 1px;
 }
 .card{
   background-color: antiquewhite;
-  height: 7cm;
+  height: 8cm;
   padding: 2px;
   border: 1px solid black;
   width: 25cm;
+}
+.ad{
+  background-color: aqua;
+  width: 1cm;
+  border-radius: 8px;
 }
