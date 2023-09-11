@@ -1,0 +1,139 @@
+ body{
+    
+     background-image: url("https://wallpaperaccess.com/full/5652030.jpg")  ;
+      background-repeat: no-repeat, repeat;
+  
+  }
+  .vkh{
+    margin-top: 5px;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    
+  }
+  .hn{
+    color: whitesmoke;
+    font-family:'Times New Roman';
+    font-size: 3rem;padding: 5px;
+  }
+  .cd{
+    padding: 5px;
+  }
+  .pn{
+    display: flex;
+    margin-top: 1cm;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    color:burlywood;
+    font-family:monospace;
+    background: none;
+    align-content: space-between;
+    padding: 5px;border-radius: .3cm;
+    font-size: 3rem;
+    margin-left: 1cm;
+    
+    
+  }
+  .pp{
+    height: 10cm;
+  }
+  .abb{
+    justify-content: center;
+    align-items: center;
+    margin-left: 2cm;
+    padding: 15px;
+
+  
+  }
+  .abh{
+    color: burlywood;
+    margin-top: 1cm;
+    text-align: center;font-size: 2.5rem;
+  }
+  .abp{
+    color: black;
+    background: linear-gradient(to right, #ffadb7, #bfe9ff);    
+    border-radius: .5cm;
+    padding: 15px;
+    margin-left:0;align-items: center;
+    justify-content: center;
+    margin-top: 1cm;
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+    font-size: 1rem;
+  }
+.sc{
+    width: 7cm;
+    margin-left: 1.3cm;
+    border: 1px solid black;
+    margin-top: .5cm;
+}
+.skl{
+    display: flex;
+    flex-direction: row;
+    padding: 1cm;
+}
+.cch{
+    text-align: center;
+    background-color: black;
+    color: rgb(190, 190, 190);
+}
+.card-body{
+    color: black;
+    background-color:none;
+}
+.cc{
+    padding: 1cm;
+}
+
+.cdc{
+    background-color: rgb(34, 34, 34);
+    color: whitesmoke;
+    text-align: center;
+}
+.cbb{
+    background: linear-gradient(to right, #b5fff9, #e0b9ff); 
+    color:black;
+   
+    
+}
+.pfp{
+    text-align: center;
+}
+.ec{
+    width: 13cm;
+    margin: 1cm;
+}
+.edu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: .5cm;
+}
+
+.pcc{
+    width: 12cm;
+    height: 5cm;
+    margin: 1cm;
+    
+    background: linear-gradient(to right, #9ef5ee, #daadff); 
+}
+.prj{
+    
+
+    justify-content: center;
+}
+.pdc{
+display: flex;
+flex-direction: row;
+justify-content: center;
+flex-wrap: wrap         ;
+
+}
+.tt{
+    color:turquoise;
+}
+.cchc{
+    background: linear-gradient(to right, #92d3ff, #c0aeff);
+}
